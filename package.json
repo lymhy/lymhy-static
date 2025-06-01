@@ -1,0 +1,24 @@
+{
+  "name": "lymhy-img",
+  "version": "1.0.0",
+  "description": "lymhy drawing board",
+  "keywords": [
+    "static",
+    "file"
+  ],
+  "homepage": "https://github.com/lymhy/lymhy-static#readme",
+  "bugs": {
+    "url": "https://github.com/lymhy/lymhy-static/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lymhy/lymhy-static.git"
+  },
+  "license": "ISC",
+  "author": "lymhy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
